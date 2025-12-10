@@ -1,0 +1,67 @@
+# ==========================================
+# Node Dependencies
+# ==========================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ==========================================
+# Environment Files (DO NOT COMMIT)
+# ==========================================
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# ==========================================
+# Logs
+# ==========================================
+logs/
+*.log
+*.tmp
+*.out
+*.gz
+debug.log
+
+# ==========================================
+# Build / Compiled Files
+# ==========================================
+dist/
+build/
+tmp/
+cache/
+
+# ==========================================
+# OS-specific junk files
+# ==========================================
+.DS_Store
+Thumbs.db
+
+# ==========================================
+# IDE / Editor folders
+# ==========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==========================================
+# Optional: If using PM2 or similar
+# ==========================================
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# ==========================================
+# Optional: If you ever generate coverage reports
+# ==========================================
+coverage/
+nyc_output/
+
+# ==========================================
+# Optional: If you generate Postman artifacts
+# ==========================================
+.postman/

@@ -1,0 +1,2555 @@
+[
+  {
+    "id": 1,
+    "name": "Aahan",
+    "fatherName": "Kabir",
+    "motherName": "Mira",
+    "emailId": "aahan.kabir@example.com",
+    "dob": "2008-04-12",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 50 },
+          { "semester": 2, "marks": 90 },
+          { "semester": 3, "marks": 45 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 92
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 67 },
+          { "semester": 2, "marks": 78 },
+          { "semester": 3, "marks": 88 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 94
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 72 },
+          { "semester": 2, "marks": 81 },
+          { "semester": 3, "marks": 69 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 90
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 55 },
+          { "semester": 2, "marks": 74 },
+          { "semester": 3, "marks": 80 }
+        ],
+        "assignmentsSubmitted": 6,
+        "subjectAttendance": 89
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 88 },
+          { "semester": 2, "marks": 91 },
+          { "semester": 3, "marks": 95 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 97
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2500,
+      "sportsFees": 1200,
+      "backFees": 0,
+      "miscFees": 800
+    },
+    "contactNumber": "9876543210",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "700091",
+        "location": "Salt Lake Sector II",
+        "state": "West Bengal"
+      },
+      {
+        "type": "permanent",
+        "pincode": "734001",
+        "location": "Haiderpara",
+        "state": "West Bengal"
+      }
+    ]
+  },
+
+  {
+    "id": 2,
+    "name": "Ishan",
+    "fatherName": "Rohit",
+    "motherName": "Nandita",
+    "emailId": "ishan.rohit@example.com",
+    "dob": "2008-07-19",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 62 },
+          { "semester": 2, "marks": 70 },
+          { "semester": 3, "marks": 68 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 88
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 75 },
+          { "semester": 2, "marks": 79 },
+          { "semester": 3, "marks": 83 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 91
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 58 },
+          { "semester": 2, "marks": 63 },
+          { "semester": 3, "marks": 71 }
+        ],
+        "assignmentsSubmitted": 6,
+        "subjectAttendance": 86
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 80 },
+          { "semester": 2, "marks": 82 },
+          { "semester": 3, "marks": 85 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 93
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 89 },
+          { "semester": 2, "marks": 92 },
+          { "semester": 3, "marks": 94 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 96
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2600,
+      "sportsFees": 1300,
+      "backFees": 0,
+      "miscFees": 700
+    },
+    "contactNumber": "9830022110",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "700064",
+        "location": "Bidhannagar",
+        "state": "West Bengal"
+      },
+      {
+        "type": "permanent",
+        "pincode": "735101",
+        "location": "Matigara",
+        "state": "West Bengal"
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "name": "Arnav",
+    "fatherName": "Sanjay",
+    "motherName": "Rekha",
+    "emailId": "arnav.sanjay@example.com",
+    "dob": "2009-01-22",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 55 },
+          { "semester": 2, "marks": 61 },
+          { "semester": 3, "marks": 70 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 87
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 66 },
+          { "semester": 2, "marks": 74 },
+          { "semester": 3, "marks": 79 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 90
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 70 },
+          { "semester": 2, "marks": 77 },
+          { "semester": 3, "marks": 83 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 92
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 52 },
+          { "semester": 2, "marks": 60 },
+          { "semester": 3, "marks": 69 }
+        ],
+        "assignmentsSubmitted": 6,
+        "subjectAttendance": 85
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 88 },
+          { "semester": 2, "marks": 90 },
+          { "semester": 3, "marks": 93 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 95
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2700,
+      "sportsFees": 1200,
+      "backFees": 200,
+      "miscFees": 600
+    },
+    "contactNumber": "9876512340",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "700058",
+        "location": "Lake Town",
+        "state": "West Bengal"
+      },
+      {
+        "type": "permanent",
+        "pincode": "734003",
+        "location": "Maheshpara",
+        "state": "West Bengal"
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "name": "Vihaan",
+    "fatherName": "Prakash",
+    "motherName": "Anita",
+    "emailId": "vihaan.prakash@example.com",
+    "dob": "2008-11-05",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 68 },
+          { "semester": 2, "marks": 72 },
+          { "semester": 3, "marks": 77 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 91
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 81 },
+          { "semester": 2, "marks": 85 },
+          { "semester": 3, "marks": 88 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 94
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 74 },
+          { "semester": 2, "marks": 79 },
+          { "semester": 3, "marks": 82 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 89
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 65 },
+          { "semester": 2, "marks": 69 },
+          { "semester": 3, "marks": 75 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 87
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 90 },
+          { "semester": 2, "marks": 93 },
+          { "semester": 3, "marks": 96 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 98
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2550,
+      "sportsFees": 1300,
+      "backFees": 0,
+      "miscFees": 900
+    },
+    "contactNumber": "9800123475",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "700106",
+        "location": "New Town Action Area I",
+        "state": "West Bengal"
+      },
+      {
+        "type": "permanent",
+        "pincode": "734004",
+        "location": "Kadamani",
+        "state": "West Bengal"
+      }
+    ]
+  },
+
+  {
+    "id": 5,
+    "name": "Reyansh",
+    "fatherName": "Amit",
+    "motherName": "Puja",
+    "emailId": "reyansh.amit@example.com",
+    "dob": "2009-03-29",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 72 },
+          { "semester": 2, "marks": 76 },
+          { "semester": 3, "marks": 80 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 93
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 65 },
+          { "semester": 2, "marks": 70 },
+          { "semester": 3, "marks": 78 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 88
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 69 },
+          { "semester": 2, "marks": 75 },
+          { "semester": 3, "marks": 81 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 90
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 58 },
+          { "semester": 2, "marks": 63 },
+          { "semester": 3, "marks": 70 }
+        ],
+        "assignmentsSubmitted": 6,
+        "subjectAttendance": 85
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 85 },
+          { "semester": 2, "marks": 89 },
+          { "semester": 3, "marks": 93 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 96
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2400,
+      "sportsFees": 1100,
+      "backFees": 0,
+      "miscFees": 750
+    },
+    "contactNumber": "9812345098",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "700098",
+        "location": "Rajarhat",
+        "state": "West Bengal"
+      },
+      {
+        "type": "permanent",
+        "pincode": "734005",
+        "location": "Ashram Para",
+        "state": "West Bengal"
+      }
+    ]
+  },
+
+  {
+    "id": 6,
+    "name": "Advait",
+    "fatherName": "Nilesh",
+    "motherName": "Shalini",
+    "emailId": "advait.nilesh@example.com",
+    "dob": "2008-09-14",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 61 },
+          { "semester": 2, "marks": 69 },
+          { "semester": 3, "marks": 73 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 89
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 72 },
+          { "semester": 2, "marks": 76 },
+          { "semester": 3, "marks": 84 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 92
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 65 },
+          { "semester": 2, "marks": 70 },
+          { "semester": 3, "marks": 78 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 88
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 59 },
+          { "semester": 2, "marks": 63 },
+          { "semester": 3, "marks": 68 }
+        ],
+        "assignmentsSubmitted": 6,
+        "subjectAttendance": 86
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 87 },
+          { "semester": 2, "marks": 90 },
+          { "semester": 3, "marks": 94 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 97
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2550,
+      "sportsFees": 1200,
+      "backFees": 0,
+      "miscFees": 820
+    },
+    "contactNumber": "9876501123",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "700091",
+        "location": "Salt Lake Sector III",
+        "state": "West Bengal"
+      },
+      {
+        "type": "permanent",
+        "pincode": "734006",
+        "location": "Khalpara",
+        "state": "West Bengal"
+      }
+    ]
+  },
+
+  {
+    "id": 7,
+    "name": "Shaurya",
+    "fatherName": "Deepak",
+    "motherName": "Kritika",
+    "emailId": "shaurya.deepak@example.com",
+    "dob": "2008-05-27",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 70 },
+          { "semester": 2, "marks": 74 },
+          { "semester": 3, "marks": 78 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 93
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 79 },
+          { "semester": 2, "marks": 82 },
+          { "semester": 3, "marks": 87 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 94
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 66 },
+          { "semester": 2, "marks": 71 },
+          { "semester": 3, "marks": 76 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 90
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 62 },
+          { "semester": 2, "marks": 67 },
+          { "semester": 3, "marks": 73 }
+        ],
+        "assignmentsSubmitted": 6,
+        "subjectAttendance": 88
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 90 },
+          { "semester": 2, "marks": 94 },
+          { "semester": 3, "marks": 97 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 98
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2600,
+      "sportsFees": 1350,
+      "backFees": 0,
+      "miscFees": 900
+    },
+    "contactNumber": "9830044550",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "700102",
+        "location": "Kestopur",
+        "state": "West Bengal"
+      },
+      {
+        "type": "permanent",
+        "pincode": "734010",
+        "location": "Pradhan Nagar",
+        "state": "West Bengal"
+      }
+    ]
+  },
+
+  {
+    "id": 8,
+    "name": "Kabir",
+    "fatherName": "Navin",
+    "motherName": "Sangeeta",
+    "emailId": "kabir.navin@example.com",
+    "dob": "2009-02-03",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 58 },
+          { "semester": 2, "marks": 63 },
+          { "semester": 3, "marks": 69 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 87
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 71 },
+          { "semester": 2, "marks": 76 },
+          { "semester": 3, "marks": 82 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 92
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 60 },
+          { "semester": 2, "marks": 65 },
+          { "semester": 3, "marks": 72 }
+        ],
+        "assignmentsSubmitted": 6,
+        "subjectAttendance": 85
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 64 },
+          { "semester": 2, "marks": 68 },
+          { "semester": 3, "marks": 73 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 88
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 86 },
+          { "semester": 2, "marks": 89 },
+          { "semester": 3, "marks": 92 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 96
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2500,
+      "sportsFees": 1250,
+      "backFees": 150,
+      "miscFees": 780
+    },
+    "contactNumber": "9876012390",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "700091",
+        "location": "Salt Lake Sector I",
+        "state": "West Bengal"
+      },
+      {
+        "type": "permanent",
+        "pincode": "734011",
+        "location": "Hakim Para",
+        "state": "West Bengal"
+      }
+    ]
+  },
+
+  {
+    "id": 9,
+    "name": "Dhruv",
+    "fatherName": "Rajesh",
+    "motherName": "Pallavi",
+    "emailId": "dhruv.rajesh@example.com",
+    "dob": "2008-12-17",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 73 },
+          { "semester": 2, "marks": 77 },
+          { "semester": 3, "marks": 81 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 94
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 69 },
+          { "semester": 2, "marks": 75 },
+          { "semester": 3, "marks": 80 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 89
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 74 },
+          { "semester": 2, "marks": 79 },
+          { "semester": 3, "marks": 83 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 92
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 63 },
+          { "semester": 2, "marks": 67 },
+          { "semester": 3, "marks": 72 }
+        ],
+        "assignmentsSubmitted": 6,
+        "subjectAttendance": 87
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 91 },
+          { "semester": 2, "marks": 94 },
+          { "semester": 3, "marks": 98 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 99
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2700,
+      "sportsFees": 1300,
+      "backFees": 0,
+      "miscFees": 880
+    },
+    "contactNumber": "9800552311",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "700100",
+        "location": "Baguiati",
+        "state": "West Bengal"
+      },
+      {
+        "type": "permanent",
+        "pincode": "734012",
+        "location": "Ashram Lane",
+        "state": "West Bengal"
+      }
+    ]
+  },
+
+  {
+    "id": 10,
+    "name": "Aarav",
+    "fatherName": "Vikas",
+    "motherName": "Manisha",
+    "emailId": "aarav.vikas@example.com",
+    "dob": "2009-06-08",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 65 },
+          { "semester": 2, "marks": 70 },
+          { "semester": 3, "marks": 75 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 90
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 78 },
+          { "semester": 2, "marks": 83 },
+          { "semester": 3, "marks": 86 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 93
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 71 },
+          { "semester": 2, "marks": 75 },
+          { "semester": 3, "marks": 79 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 91
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 60 },
+          { "semester": 2, "marks": 64 },
+          { "semester": 3, "marks": 70 }
+        ],
+        "assignmentsSubmitted": 6,
+        "subjectAttendance": 88
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 89 },
+          { "semester": 2, "marks": 92 },
+          { "semester": 3, "marks": 95 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 97
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2600,
+      "sportsFees": 1200,
+      "backFees": 100,
+      "miscFees": 850
+    },
+    "contactNumber": "9877001122",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "700059",
+        "location": "Dumdum",
+        "state": "West Bengal"
+      },
+      {
+        "type": "permanent",
+        "pincode": "734013",
+        "location": "College Para",
+        "state": "West Bengal"
+      }
+    ]
+  },
+
+  {
+    "id": 11,
+    "name": "Ishaan",
+    "fatherName": "Harish",
+    "motherName": "Sunita",
+    "emailId": "ishaan.harish@example.com",
+    "dob": "2008-08-21",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 64 },
+          { "semester": 2, "marks": 69 },
+          { "semester": 3, "marks": 74 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 90
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 77 },
+          { "semester": 2, "marks": 81 },
+          { "semester": 3, "marks": 85 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 94
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 68 },
+          { "semester": 2, "marks": 73 },
+          { "semester": 3, "marks": 79 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 89
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 59 },
+          { "semester": 2, "marks": 64 },
+          { "semester": 3, "marks": 70 }
+        ],
+        "assignmentsSubmitted": 6,
+        "subjectAttendance": 86
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 87 },
+          { "semester": 2, "marks": 90 },
+          { "semester": 3, "marks": 94 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 97
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2550,
+      "sportsFees": 1200,
+      "backFees": 0,
+      "miscFees": 820
+    },
+    "contactNumber": "9876532100",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "700090",
+        "location": "Ultadanga",
+        "state": "West Bengal"
+      },
+      {
+        "type": "permanent",
+        "pincode": "734014",
+        "location": "Hill Cart Road",
+        "state": "West Bengal"
+      }
+    ]
+  },
+
+  {
+    "id": 12,
+    "name": "Krish",
+    "fatherName": "Anand",
+    "motherName": "Smita",
+    "emailId": "krish.anand@example.com",
+    "dob": "2009-10-12",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 60 },
+          { "semester": 2, "marks": 64 },
+          { "semester": 3, "marks": 70 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 88
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 71 },
+          { "semester": 2, "marks": 77 },
+          { "semester": 3, "marks": 82 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 92
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 65 },
+          { "semester": 2, "marks": 70 },
+          { "semester": 3, "marks": 75 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 87
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 57 },
+          { "semester": 2, "marks": 62 },
+          { "semester": 3, "marks": 68 }
+        ],
+        "assignmentsSubmitted": 6,
+        "subjectAttendance": 85
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 85 },
+          { "semester": 2, "marks": 88 },
+          { "semester": 3, "marks": 92 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 95
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2500,
+      "sportsFees": 1100,
+      "backFees": 0,
+      "miscFees": 770
+    },
+    "contactNumber": "9800345123",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "700105",
+        "location": "Mahisbathan",
+        "state": "West Bengal"
+      },
+      {
+        "type": "permanent",
+        "pincode": "734015",
+        "location": "Sevoke Road",
+        "state": "West Bengal"
+      }
+    ]
+  },
+
+  {
+    "id": 13,
+    "name": "Yug",
+    "fatherName": "Sameer",
+    "motherName": "Ritika",
+    "emailId": "yug.sameer@example.com",
+    "dob": "2008-03-17",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 67 },
+          { "semester": 2, "marks": 72 },
+          { "semester": 3, "marks": 77 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 93
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 79 },
+          { "semester": 2, "marks": 84 },
+          { "semester": 3, "marks": 88 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 95
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 72 },
+          { "semester": 2, "marks": 76 },
+          { "semester": 3, "marks": 82 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 92
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 63 },
+          { "semester": 2, "marks": 68 },
+          { "semester": 3, "marks": 74 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 89
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 90 },
+          { "semester": 2, "marks": 94 },
+          { "semester": 3, "marks": 97 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 98
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2650,
+      "sportsFees": 1300,
+      "backFees": 0,
+      "miscFees": 900
+    },
+    "contactNumber": "9876054311",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "700092",
+        "location": "Phoolbagan",
+        "state": "West Bengal"
+      },
+      {
+        "type": "permanent",
+        "pincode": "734002",
+        "location": "Babupara",
+        "state": "West Bengal"
+      }
+    ]
+  },
+
+  {
+    "id": 14,
+    "name": "Aadvik",
+    "fatherName": "Ramesh",
+    "motherName": "Shobha",
+    "emailId": "aadvik.ramesh@example.com",
+    "dob": "2009-01-10",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 59 },
+          { "semester": 2, "marks": 64 },
+          { "semester": 3, "marks": 69 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 88
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 70 },
+          { "semester": 2, "marks": 74 },
+          { "semester": 3, "marks": 80 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 90
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 66 },
+          { "semester": 2, "marks": 71 },
+          { "semester": 3, "marks": 76 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 87
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 58 },
+          { "semester": 2, "marks": 63 },
+          { "semester": 3, "marks": 69 }
+        ],
+        "assignmentsSubmitted": 6,
+        "subjectAttendance": 85
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 84 },
+          { "semester": 2, "marks": 89 },
+          { "semester": 3, "marks": 93 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 95
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2450,
+      "sportsFees": 1150,
+      "backFees": 0,
+      "miscFees": 760
+    },
+    "contactNumber": "9876103450",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "700054",
+        "location": "Belgachia",
+        "state": "West Bengal"
+      },
+      {
+        "type": "permanent",
+        "pincode": "734007",
+        "location": "Subhaspally",
+        "state": "West Bengal"
+      }
+    ]
+  },
+
+  {
+    "id": 15,
+    "name": "Vihaan",
+    "fatherName": "Girish",
+    "motherName": "Pratibha",
+    "emailId": "vihaan.girish@example.com",
+    "dob": "2008-04-05",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 72 },
+          { "semester": 2, "marks": 75 },
+          { "semester": 3, "marks": 80 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 94
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 76 },
+          { "semester": 2, "marks": 81 },
+          { "semester": 3, "marks": 86 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 92
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 70 },
+          { "semester": 2, "marks": 75 },
+          { "semester": 3, "marks": 81 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 91
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 64 },
+          { "semester": 2, "marks": 68 },
+          { "semester": 3, "marks": 73 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 89
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 88 },
+          { "semester": 2, "marks": 92 },
+          { "semester": 3, "marks": 96 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 98
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2750,
+      "sportsFees": 1400,
+      "backFees": 0,
+      "miscFees": 910
+    },
+    "contactNumber": "9876985412",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "700065",
+        "location": "Bidhannagar Sector V",
+        "state": "West Bengal"
+      },
+      {
+        "type": "permanent",
+        "pincode": "734008",
+        "location": "Rabindra Nagar",
+        "state": "West Bengal"
+      }
+    ]
+  },
+
+  {
+    "id": 16,
+    "name": "Arjit",
+    "fatherName": "Mahesh",
+    "motherName": "Kavita",
+    "emailId": "arjit.mahesh@example.com",
+    "dob": "2008-07-11",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 63 },
+          { "semester": 2, "marks": 69 },
+          { "semester": 3, "marks": 74 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 90
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 75 },
+          { "semester": 2, "marks": 80 },
+          { "semester": 3, "marks": 85 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 92
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 67 },
+          { "semester": 2, "marks": 72 },
+          { "semester": 3, "marks": 78 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 88
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 59 },
+          { "semester": 2, "marks": 63 },
+          { "semester": 3, "marks": 70 }
+        ],
+        "assignmentsSubmitted": 6,
+        "subjectAttendance": 86
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 86 },
+          { "semester": 2, "marks": 90 },
+          { "semester": 3, "marks": 93 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 97
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2550,
+      "sportsFees": 1300,
+      "backFees": 0,
+      "miscFees": 780
+    },
+    "contactNumber": "9876011123",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "302001",
+        "location": "C-Scheme",
+        "state": "Rajasthan"
+      },
+      {
+        "type": "permanent",
+        "pincode": "600042",
+        "location": "Velachery",
+        "state": "Tamil Nadu"
+      }
+    ]
+  },
+
+  {
+    "id": 17,
+    "name": "Manan",
+    "fatherName": "Suresh",
+    "motherName": "Bhavika",
+    "emailId": "manan.suresh@example.com",
+    "dob": "2009-02-14",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 68 },
+          { "semester": 2, "marks": 73 },
+          { "semester": 3, "marks": 79 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 94
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 74 },
+          { "semester": 2, "marks": 78 },
+          { "semester": 3, "marks": 84 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 91
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 70 },
+          { "semester": 2, "marks": 75 },
+          { "semester": 3, "marks": 81 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 90
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 62 },
+          { "semester": 2, "marks": 67 },
+          { "semester": 3, "marks": 73 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 87
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 88 },
+          { "semester": 2, "marks": 92 },
+          { "semester": 3, "marks": 95 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 98
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2650,
+      "sportsFees": 1250,
+      "backFees": 0,
+      "miscFees": 900
+    },
+    "contactNumber": "9812234590",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "560034",
+        "location": "Koramangala",
+        "state": "Bengaluru"
+      },
+      {
+        "type": "permanent",
+        "pincode": "781001",
+        "location": "Pan Bazar",
+        "state": "Assam"
+      }
+    ]
+  },
+
+  {
+    "id": 18,
+    "name": "Rudra",
+    "fatherName": "Nitin",
+    "motherName": "Meera",
+    "emailId": "rudra.nitin@example.com",
+    "dob": "2008-09-29",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 70 },
+          { "semester": 2, "marks": 75 },
+          { "semester": 3, "marks": 81 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 93
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 77 },
+          { "semester": 2, "marks": 82 },
+          { "semester": 3, "marks": 88 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 94
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 69 },
+          { "semester": 2, "marks": 74 },
+          { "semester": 3, "marks": 80 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 91
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 63 },
+          { "semester": 2, "marks": 67 },
+          { "semester": 3, "marks": 72 }
+        ],
+        "assignmentsSubmitted": 6,
+        "subjectAttendance": 89
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 89 },
+          { "semester": 2, "marks": 94 },
+          { "semester": 3, "marks": 98 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 98
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2750,
+      "sportsFees": 1400,
+      "backFees": 100,
+      "miscFees": 910
+    },
+    "contactNumber": "9876014500",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "403001",
+        "location": "Panjim",
+        "state": "Goa"
+      },
+      {
+        "type": "permanent",
+        "pincode": "400001",
+        "location": "Fort",
+        "state": "Mumbai"
+      }
+    ]
+  },
+
+  {
+    "id": 19,
+    "name": "Shaunak",
+    "fatherName": "Devendra",
+    "motherName": "Rashmi",
+    "emailId": "shaunak.devendra@example.com",
+    "dob": "2009-02-21",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 64 },
+          { "semester": 2, "marks": 68 },
+          { "semester": 3, "marks": 72 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 89
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 71 },
+          { "semester": 2, "marks": 75 },
+          { "semester": 3, "marks": 80 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 87
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 66 },
+          { "semester": 2, "marks": 71 },
+          { "semester": 3, "marks": 76 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 88
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 60 },
+          { "semester": 2, "marks": 63 },
+          { "semester": 3, "marks": 70 }
+        ],
+        "assignmentsSubmitted": 6,
+        "subjectAttendance": 85
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 84 },
+          { "semester": 2, "marks": 88 },
+          { "semester": 3, "marks": 92 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 96
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2450,
+      "sportsFees": 1150,
+      "backFees": 0,
+      "miscFees": 760
+    },
+    "contactNumber": "9811236785",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "122001",
+        "location": "Gurugram Sector 14",
+        "state": "Haryana"
+      },
+      {
+        "type": "permanent",
+        "pincode": "560001",
+        "location": "MG Road",
+        "state": "Bengaluru"
+      }
+    ]
+  },
+
+  {
+    "id": 20,
+    "name": "Laksh",
+    "fatherName": "Vijay",
+    "motherName": "Chhaya",
+    "emailId": "laksh.vijay@example.com",
+    "dob": "2008-05-30",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 69 },
+          { "semester": 2, "marks": 72 },
+          { "semester": 3, "marks": 78 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 91
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 75 },
+          { "semester": 2, "marks": 80 },
+          { "semester": 3, "marks": 85 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 93
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 68 },
+          { "semester": 2, "marks": 74 },
+          { "semester": 3, "marks": 79 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 90
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 61 },
+          { "semester": 2, "marks": 66 },
+          { "semester": 3, "marks": 72 }
+        ],
+        "assignmentsSubmitted": 6,
+        "subjectAttendance": 86
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 88 },
+          { "semester": 2, "marks": 92 },
+          { "semester": 3, "marks": 96 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 98
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2600,
+      "sportsFees": 1350,
+      "backFees": 0,
+      "miscFees": 850
+    },
+    "contactNumber": "9876401102",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "781003",
+        "location": "Ulubari",
+        "state": "Assam"
+      },
+      {
+        "type": "permanent",
+        "pincode": "403004",
+        "location": "Margao",
+        "state": "Goa"
+      }
+    ]
+  },
+
+  {
+    "id": 21,
+    "name": "Hriday",
+    "fatherName": "Saket",
+    "motherName": "Purnima",
+    "emailId": "hriday.saket@example.com",
+    "dob": "2008-11-09",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 67 },
+          { "semester": 2, "marks": 71 },
+          { "semester": 3, "marks": 76 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 92
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 74 },
+          { "semester": 2, "marks": 79 },
+          { "semester": 3, "marks": 83 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 93
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 68 },
+          { "semester": 2, "marks": 73 },
+          { "semester": 3, "marks": 79 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 89
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 60 },
+          { "semester": 2, "marks": 64 },
+          { "semester": 3, "marks": 70 }
+        ],
+        "assignmentsSubmitted": 6,
+        "subjectAttendance": 87
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 86 },
+          { "semester": 2, "marks": 90 },
+          { "semester": 3, "marks": 94 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 97
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2600,
+      "sportsFees": 1200,
+      "backFees": 100,
+      "miscFees": 800
+    },
+    "contactNumber": "9812234509",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "600017",
+        "location": "T Nagar",
+        "state": "Tamil Nadu"
+      },
+      {
+        "type": "permanent",
+        "pincode": "302021",
+        "location": "Malviya Nagar",
+        "state": "Rajasthan"
+      }
+    ]
+  },
+
+  {
+    "id": 22,
+    "name": "Divyansh",
+    "fatherName": "Kamal",
+    "motherName": "Sarika",
+    "emailId": "divyansh.kamal@example.com",
+    "dob": "2009-06-19",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 62 },
+          { "semester": 2, "marks": 67 },
+          { "semester": 3, "marks": 72 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 88
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 73 },
+          { "semester": 2, "marks": 78 },
+          { "semester": 3, "marks": 82 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 90
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 64 },
+          { "semester": 2, "marks": 69 },
+          { "semester": 3, "marks": 75 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 87
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 59 },
+          { "semester": 2, "marks": 64 },
+          { "semester": 3, "marks": 70 }
+        ],
+        "assignmentsSubmitted": 6,
+        "subjectAttendance": 85
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 84 },
+          { "semester": 2, "marks": 88 },
+          { "semester": 3, "marks": 92 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 95
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2450,
+      "sportsFees": 1100,
+      "backFees": 0,
+      "miscFees": 760
+    },
+    "contactNumber": "9876002233",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "400053",
+        "location": "Andheri West",
+        "state": "Mumbai"
+      },
+      {
+        "type": "permanent",
+        "pincode": "560076",
+        "location": "BTM Layout",
+        "state": "Bengaluru"
+      }
+    ]
+  },
+
+  {
+    "id": 23,
+    "name": "Parth",
+    "fatherName": "Naveen",
+    "motherName": "Shweta",
+    "emailId": "parth.naveen@example.com",
+    "dob": "2008-02-08",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 65 },
+          { "semester": 2, "marks": 70 },
+          { "semester": 3, "marks": 75 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 90
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 77 },
+          { "semester": 2, "marks": 82 },
+          { "semester": 3, "marks": 87 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 94
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 70 },
+          { "semester": 2, "marks": 75 },
+          { "semester": 3, "marks": 81 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 88
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 63 },
+          { "semester": 2, "marks": 67 },
+          { "semester": 3, "marks": 72 }
+        ],
+        "assignmentsSubmitted": 6,
+        "subjectAttendance": 86
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 88 },
+          { "semester": 2, "marks": 92 },
+          { "semester": 3, "marks": 95 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 97
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2700,
+      "sportsFees": 1300,
+      "backFees": 0,
+      "miscFees": 900
+    },
+    "contactNumber": "9812246709",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "575001",
+        "location": "Mangalore Central",
+        "state": "Karnataka"
+      },
+      {
+        "type": "permanent",
+        "pincode": "403705",
+        "location": "Calangute",
+        "state": "Goa"
+      }
+    ]
+  },
+
+  {
+    "id": 24,
+    "name": "Aaryan",
+    "fatherName": "Pradeep",
+    "motherName": "Nirmala",
+    "emailId": "aaryan.pradeep@example.com",
+    "dob": "2009-09-03",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 58 },
+          { "semester": 2, "marks": 63 },
+          { "semester": 3, "marks": 69 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 87
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 70 },
+          { "semester": 2, "marks": 75 },
+          { "semester": 3, "marks": 80 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 90
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 66 },
+          { "semester": 2, "marks": 71 },
+          { "semester": 3, "marks": 76 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 88
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 60 },
+          { "semester": 2, "marks": 64 },
+          { "semester": 3, "marks": 70 }
+        ],
+        "assignmentsSubmitted": 6,
+        "subjectAttendance": 86
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 84 },
+          { "semester": 2, "marks": 88 },
+          { "semester": 3, "marks": 92 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 95
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2400,
+      "sportsFees": 1200,
+      "backFees": 150,
+      "miscFees": 750
+    },
+    "contactNumber": "9876549800",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "134003",
+        "location": "Ambala City",
+        "state": "Haryana"
+      },
+      {
+        "type": "permanent",
+        "pincode": "781005",
+        "location": "Bhangagarh",
+        "state": "Assam"
+      }
+    ]
+  },
+
+  {
+    "id": 25,
+    "name": "Kiaan",
+    "fatherName": "Rohit",
+    "motherName": "Ankita",
+    "emailId": "kiaan.rohit@example.com",
+    "dob": "2008-01-25",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 73 },
+          { "semester": 2, "marks": 78 },
+          { "semester": 3, "marks": 82 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 94
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 76 },
+          { "semester": 2, "marks": 81 },
+          { "semester": 3, "marks": 86 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 93
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 71 },
+          { "semester": 2, "marks": 75 },
+          { "semester": 3, "marks": 80 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 91
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 64 },
+          { "semester": 2, "marks": 69 },
+          { "semester": 3, "marks": 74 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 89
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 90 },
+          { "semester": 2, "marks": 94 },
+          { "semester": 3, "marks": 97 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 98
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2700,
+      "sportsFees": 1400,
+      "backFees": 0,
+      "miscFees": 910
+    },
+    "contactNumber": "9800012345",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "560002",
+        "location": "Basavanagudi",
+        "state": "Bengaluru"
+      },
+      {
+        "type": "permanent",
+        "pincode": "403802",
+        "location": "Vasco Da Gama",
+        "state": "Goa"
+      }
+    ]
+  },
+
+  {
+    "id": 26,
+    "name": "Atharv",
+    "fatherName": "Rajat",
+    "motherName": "Deepika",
+    "emailId": "atharv.rajat@example.com",
+    "dob": "2008-03-13",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 66 },
+          { "semester": 2, "marks": 71 },
+          { "semester": 3, "marks": 75 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 91
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 74 },
+          { "semester": 2, "marks": 79 },
+          { "semester": 3, "marks": 83 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 92
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 69 },
+          { "semester": 2, "marks": 74 },
+          { "semester": 3, "marks": 78 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 89
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 63 },
+          { "semester": 2, "marks": 68 },
+          { "semester": 3, "marks": 73 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 88
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 87 },
+          { "semester": 2, "marks": 91 },
+          { "semester": 3, "marks": 95 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 97
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2600,
+      "sportsFees": 1300,
+      "backFees": 0,
+      "miscFees": 860
+    },
+    "contactNumber": "9812234599",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "600028",
+        "location": "Adyar",
+        "state": "Tamil Nadu"
+      },
+      {
+        "type": "permanent",
+        "pincode": "600113",
+        "location": "Thoraipakkam",
+        "state": "Tamil Nadu"
+      }
+    ]
+  },
+
+  {
+    "id": 27,
+    "name": "Virat",
+    "fatherName": "Keshav",
+    "motherName": "Prerna",
+    "emailId": "virat.keshav@example.com",
+    "dob": "2009-01-18",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 70 },
+          { "semester": 2, "marks": 74 },
+          { "semester": 3, "marks": 79 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 94
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 76 },
+          { "semester": 2, "marks": 81 },
+          { "semester": 3, "marks": 86 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 93
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 72 },
+          { "semester": 2, "marks": 76 },
+          { "semester": 3, "marks": 81 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 91
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 64 },
+          { "semester": 2, "marks": 69 },
+          { "semester": 3, "marks": 73 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 88
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 90 },
+          { "semester": 2, "marks": 94 },
+          { "semester": 3, "marks": 97 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 98
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2750,
+      "sportsFees": 1400,
+      "backFees": 0,
+      "miscFees": 900
+    },
+    "contactNumber": "9876003344",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "560003",
+        "location": "Yeshwanthpur",
+        "state": "Bengaluru"
+      },
+      {
+        "type": "permanent",
+        "pincode": "560017",
+        "location": "Indiranagar",
+        "state": "Bengaluru"
+      }
+    ]
+  },
+
+  {
+    "id": 28,
+    "name": "Aarush",
+    "fatherName": "Yogesh",
+    "motherName": "Garima",
+    "emailId": "aarush.yogesh@example.com",
+    "dob": "2008-12-02",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 61 },
+          { "semester": 2, "marks": 66 },
+          { "semester": 3, "marks": 72 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 89
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 74 },
+          { "semester": 2, "marks": 78 },
+          { "semester": 3, "marks": 82 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 90
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 65 },
+          { "semester": 2, "marks": 70 },
+          { "semester": 3, "marks": 75 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 88
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 58 },
+          { "semester": 2, "marks": 63 },
+          { "semester": 3, "marks": 69 }
+        ],
+        "assignmentsSubmitted": 6,
+        "subjectAttendance": 86
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 85 },
+          { "semester": 2, "marks": 89 },
+          { "semester": 3, "marks": 92 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 95
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2450,
+      "sportsFees": 1100,
+      "backFees": 0,
+      "miscFees": 760
+    },
+    "contactNumber": "9812209988",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "403001",
+        "location": "Panjim",
+        "state": "Goa"
+      },
+      {
+        "type": "permanent",
+        "pincode": "403602",
+        "location": "Mapusa",
+        "state": "Goa"
+      }
+    ]
+  },
+
+  {
+    "id": 29,
+    "name": "Rehan",
+    "fatherName": "Imran",
+    "motherName": "Nazia",
+    "emailId": "rehan.imran@example.com",
+    "dob": "2009-07-07",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 72 },
+          { "semester": 2, "marks": 76 },
+          { "semester": 3, "marks": 81 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 93
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 78 },
+          { "semester": 2, "marks": 82 },
+          { "semester": 3, "marks": 86 }
+        ],
+        "assignmentsSubmitted": 9,
+        "subjectAttendance": 94
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 70 },
+          { "semester": 2, "marks": 74 },
+          { "semester": 3, "marks": 79 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 90
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 64 },
+          { "semester": 2, "marks": 68 },
+          { "semester": 3, "marks": 73 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 88
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 89 },
+          { "semester": 2, "marks": 93 },
+          { "semester": 3, "marks": 96 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 98
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2700,
+      "sportsFees": 1300,
+      "backFees": 0,
+      "miscFees": 900
+    },
+    "contactNumber": "9876500400",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "400001",
+        "location": "Fort",
+        "state": "Mumbai"
+      },
+      {
+        "type": "permanent",
+        "pincode": "400614",
+        "location": "Navi Mumbai",
+        "state": "Mumbai"
+      }
+    ]
+  },
+
+  {
+    "id": 30,
+    "name": "Harshit",
+    "fatherName": "Lokesh",
+    "motherName": "Minakshi",
+    "emailId": "harshit.lokesh@example.com",
+    "dob": "2008-10-15",
+    "scores": [
+      {
+        "subjectId": 1,
+        "marks": [
+          { "semester": 1, "marks": 63 },
+          { "semester": 2, "marks": 67 },
+          { "semester": 3, "marks": 72 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 89
+      },
+      {
+        "subjectId": 2,
+        "marks": [
+          { "semester": 1, "marks": 74 },
+          { "semester": 2, "marks": 79 },
+          { "semester": 3, "marks": 84 }
+        ],
+        "assignmentsSubmitted": 8,
+        "subjectAttendance": 92
+      },
+      {
+        "subjectId": 3,
+        "marks": [
+          { "semester": 1, "marks": 68 },
+          { "semester": 2, "marks": 72 },
+          { "semester": 3, "marks": 77 }
+        ],
+        "assignmentsSubmitted": 7,
+        "subjectAttendance": 88
+      },
+      {
+        "subjectId": 4,
+        "marks": [
+          { "semester": 1, "marks": 61 },
+          { "semester": 2, "marks": 65 },
+          { "semester": 3, "marks": 71 }
+        ],
+        "assignmentsSubmitted": 6,
+        "subjectAttendance": 86
+      },
+      {
+        "subjectId": 5,
+        "marks": [
+          { "semester": 1, "marks": 86 },
+          { "semester": 2, "marks": 90 },
+          { "semester": 3, "marks": 94 }
+        ],
+        "assignmentsSubmitted": 10,
+        "subjectAttendance": 97
+      }
+    ],
+    "feeDetails": {
+      "examFees": 2500,
+      "sportsFees": 1200,
+      "backFees": 0,
+      "miscFees": 800
+    },
+    "contactNumber": "9812347770",
+    "address": [
+      {
+        "type": "residential",
+        "pincode": "122002",
+        "location": "DLF Phase 2",
+        "state": "Haryana"
+      },
+      {
+        "type": "permanent",
+        "pincode": "135001",
+        "location": "Yamunanagar",
+        "state": "Haryana"
+      }
+    ]
+  },
+  {
+    "trainers": [
+      {
+        "trainerId": 101,
+        "trainerName": "Arvind Menon",
+        "subjectId": 1,
+        "hexColorCode": "#4A90E2"
+      },
+      {
+        "trainerId": 102,
+        "trainerName": "Divya Kapoor",
+        "subjectId": 2,
+        "hexColorCode": "#50E3C2"
+      },
+      {
+        "trainerId": 103,
+        "trainerName": "Harish Patil",
+        "subjectId": 3,
+        "hexColorCode": "#F5A623"
+      },
+      {
+        "trainerId": 104,
+        "trainerName": "Meera Nair",
+        "subjectId": 4,
+        "hexColorCode": "#BD10E0"
+      },
+      {
+        "trainerId": 105,
+        "trainerName": "Nitin Verma",
+        "subjectId": 5,
+        "hexColorCode": "#7ED321"
+      },
+
+      {
+        "trainerId": 111,
+        "trainerName": "Sanjana Rao",
+        "subjectId": 1,
+        "hexColorCode": "#D0021B"
+      },
+      {
+        "trainerId": 112,
+        "trainerName": "Vivek Sharma",
+        "subjectId": 2,
+        "hexColorCode": "#F8E71C"
+      },
+      {
+        "trainerId": 113,
+        "trainerName": "Pallavi Desai",
+        "subjectId": 3,
+        "hexColorCode": "#9013FE"
+      },
+      {
+        "trainerId": 114,
+        "trainerName": "Rohan Iyer",
+        "subjectId": 4,
+        "hexColorCode": "#FF7F50"
+      },
+      {
+        "trainerId": 115,
+        "trainerName": "Ananya Pillai",
+        "subjectId": 5,
+        "hexColorCode": "#00C8FF"
+      }
+    ]
+  },
+  {
+    "subjects": [
+      {
+        "subjectId": 1,
+        "subjectName": "English",
+        "subjectCode": "ENG01"
+      },
+      {
+        "subjectId": 2,
+        "subjectName": "Maths",
+        "subjectCode": "MTH01"
+      },
+      {
+        "subjectId": 3,
+        "subjectName": "Science",
+        "subjectCode": "SCI01"
+      },
+      {
+        "subjectId": 4,
+        "subjectName": "Social Science",
+        "subjectCode": "SOC01"
+      },
+      {
+        "subjectId": 5,
+        "subjectName": "Computer",
+        "subjectCode": "CMP01"
+      }
+    ]
+  }
+]
