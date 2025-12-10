@@ -49,6 +49,8 @@ app.get("/studenterp/all", apiKeyAuth, async (req, res) => {
   }
 });
 
-app.listen(8080, () => {
+const PORT = process.env.PORT || 8080;
+
+app.listen(PORT, () => {
   console.log("API running at http://localhost:8080/studenterp/all");
 });
